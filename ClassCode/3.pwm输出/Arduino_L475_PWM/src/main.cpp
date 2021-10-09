@@ -1,18 +1,15 @@
 #include <Arduino.h>
-#include <led.h>
-#include"beep.h"
-#include"key.h"
-#include"usart.h"
-#include"pwm.h"
+#include "led/led.h"
+#include "beep/beep.h"
+#include "key/key.h"
+#include "pwm/pwm.h"
 
 
 
 uint8_t count = 0;
 void setup() {
   // put your setup code here, to run once:
-  Serial.begin(115200);
   attatchMotor();
-  
 }
 
 void loop() {

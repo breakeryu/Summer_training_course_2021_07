@@ -1,7 +1,7 @@
 #include <Arduino.h>
-#include <led.h>
-#include"beep.h"
-#include"key.h"
+#include "led/led.h"
+#include "key/key.h"
+#include "beep/beep.h"
 
 uint8_t key;
 
