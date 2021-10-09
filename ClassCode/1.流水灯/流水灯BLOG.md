@@ -68,25 +68,27 @@ void LED_Init(void)
 
 ```
 
-## 2.发现问题
+## 2.第一个编译的问题
 
-使用IDE（VSCode）的时候，编译出现一些错误。这里我把错误放在这里。
+在使用自己编写的文件时，源文件要以CPP文件后缀保存，头文件以.h文件保存。
 
+## 3.文件夹设置
+
+在编写驱动时，往往以文件夹保存文件的形式，例如
+FEIL NAME : LED
+            --led.cpp
+            --led.h
+
+像这样的一个LED驱动文件的编写是很简单的。但是在PIO的里面，引用这个驱动文件需要声明文件夹名称。
+例如：在main.cpp文件中引用led.h:
+```cpp
+    #include "led/led.h"
 ```
-.pio/build/disco_l475vg_iot01a/src/main.cpp.o: In function `setup':
-main.cpp:(.text.setup+0x0): undefined reference to `LED_Init()'
-collect2.exe: error: ld returned 1 exit status
-*** [.pio\build\disco_l475vg_iot01a\firmware.elf] Error 1
+这样的引用就像我们在对该文件夹进行强调，可以让PIO找到引用的路径。
 
-```
+注意：驱动文件夹可以放在src文件夹中。但是放在include文件夹中就会报错，我不知道为什么。
 
 
-出现错误的原因，是因为我在第一次创建文件的时候，将我的led.cpp文件命名的时候
-命名成为了led.c文件。
-
-所以，这样子的命名会出现错误。
-
-解决办法：之后的自己写的SRC文件和HEADER文件需要注意命名后缀，分别为.h,还有.cpp。
 
 
 
