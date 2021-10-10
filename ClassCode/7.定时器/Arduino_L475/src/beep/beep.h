@@ -4,7 +4,7 @@
 
 
 #define BEEP(n)	(n?digitalWrite(PB2,HIGH):digitalWrite(PB2,LOW))
-#define BEEP_TogglePin	digitalToggle(PB2)
+#define BEEP_Toggle	digitalToggle(PB2)
 
 
 void BEEP_Init(void);
