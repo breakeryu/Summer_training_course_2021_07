@@ -1,15 +1,8 @@
 #include <Arduino.h>
-#include <led.h>
-#include"beep.h"
-#include"key.h"
-#include"usart.h"
-#include "icm20608.h"
+#include "iic/icm20608.h"
 #include "Wire.h"
 
-double temp = 0;
-short gayWay;
-short Gy[3];
-short Ac[3];
+
 
 
 void setup() {
@@ -20,31 +13,8 @@ void setup() {
 }
 
 void loop() {
-  gayWay = MPU_Get_Temperature();	
-  temp = (double)gayWay / 100.0;
-  MPU_Get_Accelerometer(&Ac[0],&Ac[1],&Ac[2]);	
-  MPU_Get_Gyroscope(&Gy[0],&Gy[1],&Gy[2]);	
-
-  Serial.print("temp = ");
-  Serial.println(temp);
-
-  Serial.print("Gyroscope : ");
-  for (int i = 0; i < 3; i++)
-  {
-    Serial.print(Gy[i]);
-    Serial.print("  ");
-  }
-  Serial.println();
-
-  Serial.print("Accelerometer : ");
-  for (int i = 0; i < 3; i++)
-  {
-    Serial.print(Ac[i]);
-    Serial.print("  ");
-  }
-  Serial.println();
-
-  delay(3000);
+  ICM20608_TestDemo();
+  delay(500);
 }
 
 /*

@@ -1,25 +1,20 @@
 #include <Arduino.h>
-#include "led/led.h"
-#include "beep/beep.h"
-#include "key/key.h"
-#include "usart/usart.h"
-#include "adc/adc.h"
-#include "pwm/pwm.h"
-#include "exti/exti.h"
-#include "timer/timer.h"
-#include "iic/iic.h"
+#include "iic/icm20608.h"
+#include "Wire.h"
 
 
-
+//todo 使用软件模拟进行读写iic
 
 void setup() {
   Serial.begin(9600);
-  AP3216_Init();
+  ICM20608_Init();
+  delay(1000);
+  
 }
 
 void loop() {
-  AP3216_GetDate();
-  delay(1000);
+  ICM20608_TestDemo();
+  delay(500);
 }
 
 /*
