@@ -1,34 +1,20 @@
 #include <Arduino.h>
-#include <led.h>
-#include"beep.h"
-#include"key.h"
-#include"usart.h"
+#include "led/led.h"
+#include "beep/beep.h"
+#include "key/key.h"
+#include "pwm/pwm.h"
+#include "usart/usart.h"
+#include "adc/adc.h"
 
-#define TEST_ADCPIN PC4
-#define sampleTime 5
-uint32_t sourceValue[sampleTime];
-uint32_t avargeResult;
-double voltageValue;
 
 void setup() {
-  avargeResult = 0;
-  voltageValue = 0;
+  usart_init();
+  adc_init();
 }
 
 
 void loop() {
-
-  avargeResult = 0;
-  for (int i = 0; i < sampleTime; i++)
-  {
-    sourceValue[i] = analogRead(TEST_ADCPIN);
-    avargeResult += sourceValue[i];
-  }
-  voltageValue = (double)avargeResult / 1023 / sampleTime;
-  voltageValue = 3.3 * voltageValue;
-  // put your main code here, to run repeatedly:
-  delay(2000);
-
+  
 }
 
 /*
