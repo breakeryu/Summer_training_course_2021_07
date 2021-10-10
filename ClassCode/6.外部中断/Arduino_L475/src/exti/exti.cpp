@@ -1,5 +1,5 @@
 #include "exti.h"
-#include "pwm.h"
+
 /**
  * @brief	exit IO初始化函数
  *
@@ -26,7 +26,7 @@ void exti_init(void)
 void motor_forward(void)
 {
 
-    MotorFoward();
+    MotorFullSpeedFoward();
     
 }
 
@@ -53,7 +53,7 @@ void motor_forward_low(void)
  */
 void motor_breverse(void)
 {
-     MotorBReverse();
+     MotorFullSpeedReverse();
 
 }
 
@@ -66,7 +66,7 @@ void motor_breverse(void)
  */
 void motor_breverse_fast(void)
 {
-    MotorBReverse(200);
+    MotorReverse(200);
 
 }
 

@@ -9,10 +9,10 @@
 void attatchMotor(void);
 
 void MotorStop(void);
-void MotorFoward(void);
+void MotorFullSpeedFoward(void);
 void MotorFoward(uint8_t speed);
-void MotorBReverse(void);
-void MotorBReverse(uint8_t speed);
+void MotorFullSpeedReverse(void);
+void MotorReverse(uint8_t speed);
 
 
 #endif

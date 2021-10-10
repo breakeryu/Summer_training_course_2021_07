@@ -10,8 +10,8 @@
 void attatchMotor(void)
 {
 
-  analogWrite(MA0, LOW);
-  analogWrite(MA1, LOW);
+  analogWrite(MA0, 0);
+  analogWrite(MA1, 0);
 
 }
 /**
@@ -35,10 +35,10 @@ void MotorStop(void)
  *
  * @return  void
  */
-void MotorFoward(void)
+void MotorFullSpeedFoward(void)
 {
   analogWrite(MA0, 255);
-  analogWrite(MA1, LOW);
+  analogWrite(MA1, 0);
 
 }
 /**
@@ -50,9 +50,10 @@ void MotorFoward(void)
  */
 void MotorFoward(uint8_t speed)
 {
-  analogWrite(MA0, speed);
-  analogWrite(MA1, LOW);
 
+  analogWrite(MA0, speed);
+  analogWrite(MA1, 0);
+  
 }
 
 /**
@@ -62,9 +63,9 @@ void MotorFoward(uint8_t speed)
  *
  * @return  void
  */
-void MotorBReverse(void)
+void MotorFullSpeedReverse(void)
 {
-  analogWrite(MA0, LOW);
+  analogWrite(MA0, 0);
   analogWrite(MA1, 255);
 
 }
@@ -75,9 +76,9 @@ void MotorBReverse(void)
  *
  * @return  void
  */
-void MotorBReverse(uint8_t speed)
+void MotorReverse(uint8_t speed)
 {
-  analogWrite(MA0, LOW);
+  analogWrite(MA0, 0);
   analogWrite(MA1, speed);
   
 }

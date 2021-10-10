@@ -17,10 +17,10 @@ void KEY_Init(void)
 		KEY2 	- PD8
 		WK_UP 	- PC13
 	*/
-	pinMode(PD8,INPUT_PULLDOWN);
-    pinMode(PD9,INPUT_PULLDOWN);
-    pinMode(PD10,INPUT_PULLDOWN);
-    pinMode(PC13,INPUT_PULLUP);
+	pinMode(PD8,INPUT_PULLUP);
+    pinMode(PD9,INPUT_PULLUP);
+    pinMode(PD10,INPUT_PULLUP);
+    pinMode(PC13,INPUT_PULLDOWN);
 
  
 }
