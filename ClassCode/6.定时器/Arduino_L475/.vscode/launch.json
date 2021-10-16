@@ -1,0 +1,36 @@
+// AUTOMATICALLY GENERATED FILE. PLEASE DO NOT MODIFY IT MANUALLY
+//
+// PIO Unified Debugger
+//
+// Documentation: https://docs.platformio.org/page/plus/debugging.html
+// Configuration: https://docs.platformio.org/page/projectconf/section_env_debug.html
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug",
+            "executable": "g:/项目文件夹/21年项目/嵌入式课程/远程仓库/Summer_training_course_2021_07/ClassCode/6.定时器/Arduino_L475/.pio/build/disco_l475vg_iot01a/firmware.elf",
+            "projectEnvName": "disco_l475vg_iot01a",
+            "toolchainBinDir": "C:/Users/Hasee/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "internalConsoleOptions": "openOnSessionStart",
+            "svdPath": "C:/Users/Hasee/.platformio/platforms/ststm32/misc/svd/STM32L4x5.svd",
+            "preLaunchTask": {
+                "type": "PlatformIO",
+                "task": "Pre-Debug"
+            }
+        },
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug (skip Pre-Debug)",
+            "executable": "g:/项目文件夹/21年项目/嵌入式课程/远程仓库/Summer_training_course_2021_07/ClassCode/6.定时器/Arduino_L475/.pio/build/disco_l475vg_iot01a/firmware.elf",
+            "projectEnvName": "disco_l475vg_iot01a",
+            "toolchainBinDir": "C:/Users/Hasee/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "internalConsoleOptions": "openOnSessionStart",
+            "svdPath": "C:/Users/Hasee/.platformio/platforms/ststm32/misc/svd/STM32L4x5.svd"
+        }
+    ]
+}
