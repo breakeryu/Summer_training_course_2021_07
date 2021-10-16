@@ -1,0 +1,361 @@
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=D11 NewDesignator=D12
+Change Component Designator: OldDesignator=D15 NewDesignator=D16
+Change Component Designator: OldDesignator=D19 NewDesignator=D20
+Change Component Designator: OldDesignator=D23 NewDesignator=D24
+Change Component Designator: OldDesignator=D27 NewDesignator=D28
+Change Component Designator: OldDesignator=D31 NewDesignator=D32
+Change Component Designator: OldDesignator=D35 NewDesignator=D36
+Change Component Designator: OldDesignator=D39 NewDesignator=D40
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Added Component: Designator=D1(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D11(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D13(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D14(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D15(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D17(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D18(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D19(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D21(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D22(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D23(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D25(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D26(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D27(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D29(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D30(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D31(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D33(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D34(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D35(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D37(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D38(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D39(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R17(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R18(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R19(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R21(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R22(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R23(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R25(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R26(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R27(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R29(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R30(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R31(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R33(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R34(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R35(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R37(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R38(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R39(RES_0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=GND Pin=D11-1
+Added Pin To Net: NetName=GND Pin=D13-1
+Added Pin To Net: NetName=GND Pin=D14-1
+Added Pin To Net: NetName=GND Pin=D15-1
+Added Pin To Net: NetName=GND Pin=D17-1
+Added Pin To Net: NetName=GND Pin=D18-1
+Added Pin To Net: NetName=GND Pin=D19-1
+Added Pin To Net: NetName=GND Pin=D21-1
+Added Pin To Net: NetName=GND Pin=D22-1
+Added Pin To Net: NetName=GND Pin=D23-1
+Added Pin To Net: NetName=GND Pin=D25-1
+Added Pin To Net: NetName=GND Pin=D26-1
+Added Pin To Net: NetName=GND Pin=D27-1
+Added Pin To Net: NetName=GND Pin=D29-1
+Added Pin To Net: NetName=GND Pin=D30-1
+Added Pin To Net: NetName=GND Pin=D31-1
+Added Pin To Net: NetName=GND Pin=D33-1
+Added Pin To Net: NetName=GND Pin=D34-1
+Added Pin To Net: NetName=GND Pin=D35-1
+Added Pin To Net: NetName=GND Pin=D37-1
+Added Pin To Net: NetName=GND Pin=D38-1
+Added Pin To Net: NetName=GND Pin=D39-1
+Added Pin To Net: NetName=3v3 Pin=R1-2
+Added Pin To Net: NetName=3v3 Pin=R2-2
+Added Pin To Net: NetName=3v3 Pin=R3-2
+Added Pin To Net: NetName=3v3 Pin=R5-2
+Added Pin To Net: NetName=3v3 Pin=R6-2
+Added Pin To Net: NetName=3v3 Pin=R7-2
+Added Pin To Net: NetName=3v3 Pin=R9-2
+Added Pin To Net: NetName=3v3 Pin=R10-2
+Added Pin To Net: NetName=3v3 Pin=R11-2
+Added Pin To Net: NetName=3v3 Pin=R13-2
+Added Pin To Net: NetName=3v3 Pin=R14-2
+Added Pin To Net: NetName=3v3 Pin=R15-2
+Added Pin To Net: NetName=3v3 Pin=R17-2
+Added Pin To Net: NetName=3v3 Pin=R18-2
+Added Pin To Net: NetName=3v3 Pin=R19-2
+Added Pin To Net: NetName=3v3 Pin=R21-2
+Added Pin To Net: NetName=3v3 Pin=R22-2
+Added Pin To Net: NetName=3v3 Pin=R23-2
+Added Pin To Net: NetName=3v3 Pin=R25-2
+Added Pin To Net: NetName=3v3 Pin=R26-2
+Added Pin To Net: NetName=3v3 Pin=R27-2
+Added Pin To Net: NetName=3v3 Pin=R29-2
+Added Pin To Net: NetName=3v3 Pin=R30-2
+Added Pin To Net: NetName=3v3 Pin=R31-2
+Added Pin To Net: NetName=3v3 Pin=R33-2
+Added Pin To Net: NetName=3v3 Pin=R34-2
+Added Pin To Net: NetName=3v3 Pin=R35-2
+Added Pin To Net: NetName=3v3 Pin=R37-2
+Added Pin To Net: NetName=3v3 Pin=R38-2
+Added Pin To Net: NetName=3v3 Pin=R39-2
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD11_2 New Net Name=NetD12_2
+Change Net Name : Old Net Name=NetD15_2 New Net Name=NetD16_2
+Change Net Name : Old Net Name=NetD19_2 New Net Name=NetD20_2
+Change Net Name : Old Net Name=NetD23_2 New Net Name=NetD24_2
+Change Net Name : Old Net Name=NetD27_2 New Net Name=NetD28_2
+Change Net Name : Old Net Name=NetD31_2 New Net Name=NetD32_2
+Change Net Name : Old Net Name=NetD35_2 New Net Name=NetD36_2
+Change Net Name : Old Net Name=NetD39_2 New Net Name=NetD40_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R2-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R3-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R5-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R6-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R7-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=R9-1
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R10-1
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=R11-1
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=R13-1
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD14_2 Pin=R14-1
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=NetD15_2 Pin=R15-1
+Added Net: Name=NetD15_2
+Added Pin To Net: NetName=NetD17_2 Pin=D17-2
+Added Pin To Net: NetName=NetD17_2 Pin=R17-1
+Added Net: Name=NetD17_2
+Added Pin To Net: NetName=NetD18_2 Pin=D18-2
+Added Pin To Net: NetName=NetD18_2 Pin=R18-1
+Added Net: Name=NetD18_2
+Added Pin To Net: NetName=NetD19_2 Pin=D19-2
+Added Pin To Net: NetName=NetD19_2 Pin=R19-1
+Added Net: Name=NetD19_2
+Added Pin To Net: NetName=NetD21_2 Pin=D21-2
+Added Pin To Net: NetName=NetD21_2 Pin=R21-1
+Added Net: Name=NetD21_2
+Added Pin To Net: NetName=NetD22_2 Pin=D22-2
+Added Pin To Net: NetName=NetD22_2 Pin=R22-1
+Added Net: Name=NetD22_2
+Added Pin To Net: NetName=NetD23_2 Pin=D23-2
+Added Pin To Net: NetName=NetD23_2 Pin=R23-1
+Added Net: Name=NetD23_2
+Added Pin To Net: NetName=NetD25_2 Pin=D25-2
+Added Pin To Net: NetName=NetD25_2 Pin=R25-1
+Added Net: Name=NetD25_2
+Added Pin To Net: NetName=NetD26_2 Pin=D26-2
+Added Pin To Net: NetName=NetD26_2 Pin=R26-1
+Added Net: Name=NetD26_2
+Added Pin To Net: NetName=NetD27_2 Pin=D27-2
+Added Pin To Net: NetName=NetD27_2 Pin=R27-1
+Added Net: Name=NetD27_2
+Added Pin To Net: NetName=NetD29_2 Pin=D29-2
+Added Pin To Net: NetName=NetD29_2 Pin=R29-1
+Added Net: Name=NetD29_2
+Added Pin To Net: NetName=NetD30_2 Pin=D30-2
+Added Pin To Net: NetName=NetD30_2 Pin=R30-1
+Added Net: Name=NetD30_2
+Added Pin To Net: NetName=NetD31_2 Pin=D31-2
+Added Pin To Net: NetName=NetD31_2 Pin=R31-1
+Added Net: Name=NetD31_2
+Added Pin To Net: NetName=NetD33_2 Pin=D33-2
+Added Pin To Net: NetName=NetD33_2 Pin=R33-1
+Added Net: Name=NetD33_2
+Added Pin To Net: NetName=NetD34_2 Pin=D34-2
+Added Pin To Net: NetName=NetD34_2 Pin=R34-1
+Added Net: Name=NetD34_2
+Added Pin To Net: NetName=NetD35_2 Pin=D35-2
+Added Pin To Net: NetName=NetD35_2 Pin=R35-1
+Added Net: Name=NetD35_2
+Added Pin To Net: NetName=NetD37_2 Pin=D37-2
+Added Pin To Net: NetName=NetD37_2 Pin=R37-1
+Added Net: Name=NetD37_2
+Added Pin To Net: NetName=NetD38_2 Pin=D38-2
+Added Pin To Net: NetName=NetD38_2 Pin=R38-1
+Added Net: Name=NetD38_2
+Added Pin To Net: NetName=NetD39_2 Pin=D39-2
+Added Pin To Net: NetName=NetD39_2 Pin=R39-1
+Added Net: Name=NetD39_2
+Added Member To Class: ClassName=DEMO Member=Component D1 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D2 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D4 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D5 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D6 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D8 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D9 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D10 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D12 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D13 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D14 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D16 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D17 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D18 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D20 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D21 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D22 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D24 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D25 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D26 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D28 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D29 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D30 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D32 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D33 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D34 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D36 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D37 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D38 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D40 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component R1 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R2 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R4 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R5 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R6 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R8 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R9 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R10 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R12 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R13 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R14 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R16 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R17 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R18 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R20 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R21 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R22 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R24 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R25 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R26 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R28 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R29 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R30 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R32 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R33 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R34 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R36 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R37 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R38 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R40 4.7K/10%
+Added Room: Name=DEMO

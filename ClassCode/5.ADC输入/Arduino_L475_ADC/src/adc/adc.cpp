@@ -11,7 +11,7 @@ void adc_init(void){
 }
 
 double adc_Test_Channel(double *voltage, int adcpin){
-    *voltage = 3.3 * (double)adc_Get_Channel_Value(sourceValue,sampleTime,adcpin) / 1023 / sampleTime;
+    *voltage = 3.3 * (double)adc_Get_Channel_Value(sourceValue,sampleTime,adcpin) / 1023 ;
     return *voltage;
 }
 
@@ -27,5 +27,5 @@ uint32_t adc_Get_Channel_Value(uint32_t * value, uint8_t sampleNum,int adcPin){
         value[i] = analogRead(adcPin);
         avargeResult += value[i];
     }
-    return avargeResult;
+    return (avargeResult / sampleNum);
 }

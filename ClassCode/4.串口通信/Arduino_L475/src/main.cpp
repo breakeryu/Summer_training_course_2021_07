@@ -5,8 +5,8 @@
 #include  "pwm/pwm.h"
 #include  "usart/usart.h"
 
-#define EXAMPLE1 1  //串口普通输出
-#define EXAMPLE2 0  //串口简单输入
+#define EXAMPLE1 0  //串口普通输出
+#define EXAMPLE2 1  //串口简单输入
 
 void setup() {
   // put your setup code here, to run once:
@@ -18,7 +18,7 @@ void loop() {
   #if EXAMPLE1
     Serial.println("hello, world!");
     Serial.println(12345);
-    Serial.println(12345.0123);
+    Serial.println(12345.0123,4);
     Serial.print(53,HEX);
     Serial.print("\n");
     uint8_t codec[5] = {0xee,0x1,0x3,0xd,0x3};

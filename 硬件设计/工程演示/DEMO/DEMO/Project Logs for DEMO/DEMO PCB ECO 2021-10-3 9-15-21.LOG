@@ -1,0 +1,26 @@
+Added Component: Designator=J1(CON)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3v3 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Member To Class: ClassName=DEMO Member=Component D3 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D7 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D11 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D15 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D19 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D23 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D27 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D31 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D35 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component D39 LED_ºìµÆ
+Added Member To Class: ClassName=DEMO Member=Component J1 CON
+Added Member To Class: ClassName=DEMO Member=Component R3 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R7 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R11 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R15 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R19 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R23 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R27 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R31 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R35 4.7K/10%
+Added Member To Class: ClassName=DEMO Member=Component R39 4.7K/10%
+Added Room: Name=DEMO
